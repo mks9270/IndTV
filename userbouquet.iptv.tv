@@ -1,0 +1,279 @@
+#NAME IPTV
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8?checkedby%3aiptvcat.com
+:Safari TV (480p) [Not 24/7]
+#DESCRIPTION Safari TV (480p) [Not 24/7]
+#SERVICE 4097:0:1:2:0:0:0:0:0:0:http%3a//14.199.164.20%3a4001/play/a0kd/index.m3u8:Mazhavil Manorama (576p)
+#DESCRIPTION Mazhavil Manorama (576p)
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//tv.googledrivelinks.com%3a8088/live.php?c=Mazavali_Manorama_HD&q=400&e=junk.m3u8:Mazhavil Manorama HD
+#DESCRIPTION Mazhavil Manorama HD
+#SERVICE 4097:0:1:4:0:0:0:0:0:0:https%3a//live.neestream.net/neestream_01/kairaliwe/index.m3u8?token=693400:Kairali WE
+#DESCRIPTION Kairali WE
+#SERVICE 4097:0:1:5:0:0:0:0:0:0:http%3a//182.176.169.29%3a7000/play/a0g4:Asianet ME
+#DESCRIPTION Asianet ME
+#SERVICE 4097:0:1:6:0:0:0:0:0:0:http%3a//14.199.164.20%3a4001/play/a0kd/index.m3u8:Mazhavil Manorama (576p)
+#DESCRIPTION Mazhavil Manorama (576p)
+#SERVICE 4097:0:1:7:0:0:0:0:0:0:https%3a//www.youtube.com/channel/UCf8w5m0YsRa8MHQ5bwSGmbw/live:Asianet News HD
+#DESCRIPTION Asianet News HD
+#SERVICE 4097:0:1:8:0:0:0:0:0:0:https%3a//live.neestream.net/neestream_01/kairalitv/index.m3u8?token=693400:Kairali TV (480p)
+#DESCRIPTION Kairali TV (480p)
+#SERVICE 4097:0:1:9:0:0:0:0:0:0:https%3a//www.youtube.com/channel/UChtWcZy3HqvIypuk9787POA/live:Jaihind TV
+#DESCRIPTION Jaihind TV
+#SERVICE 4097:0:1:10:0:0:0:0:0:0:http%3a//103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8:DD Malayalam
+#DESCRIPTION DD Malayalam
+#SERVICE 4097:0:1:11:0:0:0:0:0:0:https%3a//www.youtube.com/channel/UCup3etEdjyF1L3sRbU-rKLw/live:24 News
+#DESCRIPTION 24 News
+#SERVICE 4097:0:1:12:0:0:0:0:0:0:https%3a//www.youtube.com/watch?v=x9qWT3Cr1OY:MediaOne
+#DESCRIPTION MediaOne
+#SERVICE 4097:0:1:13:0:0:0:0:0:0:http%3a//103.153.92.157%3a11037/hls/kbh.m3u8:Keralabhumi
+#DESCRIPTION Keralabhumi
+#SERVICE 4097:0:1:14:0:0:0:0:0:0:https%3a//live.neestream.net/neestream_01/neecinema/index.m3u8?token=693400:Nee Cinema (480p)
+#DESCRIPTION Nee Cinema (480p)
+#SERVICE 4097:0:1:15:0:0:0:0:0:0:https%3a//www.youtube.com/channel/UCfPag4Qmnif6fw25HEIqF6w/live:Raj News
+#DESCRIPTION Raj News
+#SERVICE 4097:0:1:16:0:0:0:0:0:0:https%3a//www.youtube.com/channel/UCkCWitaToNG1_lR-Si1oMrg/live:Kairali News
+#DESCRIPTION Kairali News
+#SERVICE 4097:0:1:17:0:0:0:0:0:0:https%3a//youtu.be/kO3p9_sUWs8:Reporter TV
+#DESCRIPTION Reporter TV
+#SERVICE 4097:0:1:18:0:0:0:0:0:0:https%3a//www.youtube.com/channel/UCka4WcizWM0WMKF-bMiYzWQ/live:Zee Malayalam News
+#DESCRIPTION Zee Malayalam News
+#SERVICE 4097:0:1:19:0:0:0:0:0:0:https%3a//www.youtube.com/channel/UC-mMi78WJST4N5o8_i1FoXw/live:News18 Keralam
+#DESCRIPTION News18 Keralam
+#SERVICE 4097:0:1:20:0:0:0:0:0:0:https%3a//www.youtube.com/channel/UCwXrBBZnIh2ER4lal6WbAHw/live:Mathrubhumi News
+#DESCRIPTION Mathrubhumi News
+#SERVICE 4097:0:1:21:0:0:0:0:0:0:https%3a//www.youtube.com/channel/UCP0uG-mcMImgKnJz-VjJZmQ/live:Manorama News
+#DESCRIPTION Manorama News
+#SERVICE 4097:0:1:22:0:0:0:0:0:0:https%3a//vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8?checkedby%3aiptvcat.com
+:Asianet News (404p)
+#DESCRIPTION Asianet News (404p)
+#SERVICE 4097:0:1:23:0:0:0:0:0:0:https%3a//live.neestream.net/neestream_01/darshanatv/tracks-v1a1/mono.m3u8?checkedby%3aiptvcat.com
+:Darshana TV (360p) [Not 24/7]
+#DESCRIPTION Darshana TV (360p) [Not 24/7]
+#SERVICE 4097:0:1:24:0:0:0:0:0:0:https%3a//www.youtube.com/channel/UCkCWitaToNG1_lR-Si1oMrg/live:Kairali News (720p)
+#DESCRIPTION Kairali News (720p)
+#SERVICE 4097:0:1:25:0:0:0:0:0:0:http%3a//live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8?checkedby%3aiptvcat.com
+:Harvest TV USA
+#DESCRIPTION Harvest TV USA
+#SERVICE 4097:0:1:26:0:0:0:0:0:0:https%3a//stream.ufworldind.in/kentvlive/smil%3akentv.smil/playlist.m3u8:Ken TV
+#DESCRIPTION Ken TV
+#SERVICE 4097:0:1:27:0:0:0:0:0:0:https%3a//www.youtube.com/channel/UCtSeMwydGw6mDSZaIUaJ5bw/live:Kerala Vision News (720p)
+#DESCRIPTION Kerala Vision News (720p)
+#SERVICE 4097:0:1:28:0:0:0:0:0:0:https%3a//app.m4stream.live/mfourmalayalamhls/live.m3u8:M4TV Malayalam (1080p)
+#DESCRIPTION M4TV Malayalam (1080p)
+#SERVICE 4097:0:1:29:0:0:0:0:0:0:https%3a//j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8:Magna Vision (1080p)
+#DESCRIPTION Magna Vision (1080p)
+#SERVICE 4097:0:1:30:0:0:0:0:0:0:http%3a//103.78.18.137%3a1935/live/mlpchannel/chunklist.m3u8:Malappuram Channel (720p)
+#DESCRIPTION Malappuram Channel (720p)
+#SERVICE 4097:0:1:31:0:0:0:0:0:0:https%3a//www.youtube.com/channel/UCwXrBBZnIh2ER4lal6WbAHw/live:Mathrubhumi News (1080p)
+#DESCRIPTION Mathrubhumi News (1080p)
+#SERVICE 4097:0:1:32:0:0:0:0:0:0:https%3a//live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8?checkedby%3aiptvcat.com
+:Harvest TV USA
+#DESCRIPTION Harvest TV USA
+#SERVICE 4097:0:1:33:0:0:0:0:0:0:http%3a//185.105.4.245%3a1935/livesp/uthradam/playlist.m3u8:Uthradam Movies (576p)
+#DESCRIPTION Uthradam Movies (576p)
+#SERVICE 4097:0:1:34:0:0:0:0:0:0:http%3a//198.144.149.82%3a8080/NOTV/KCVTV/index.m3u8?token=GTR&checkedby%3aiptvcat.com
+:KCV (576p) [Not 24/7]
+#DESCRIPTION KCV (576p) [Not 24/7]
+#SERVICE 4097:0:1:35:0:0:0:0:0:0:https%3a//vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8:Asianet News (720p)
+#DESCRIPTION Asianet News (720p)
+#SERVICE 4097:0:1:36:0:0:0:0:0:0:http%3a//198.144.149.82%3a8080/NOTV/KCVMOVIE/index.m3u8?token=GTR&checkedby%3aiptvcat.com
+:KCV Movies (576p) [Not 24/7]
+#DESCRIPTION KCV Movies (576p) [Not 24/7]
+#SERVICE 4097:0:1:37:0:0:0:0:0:0:https%3a//932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8?checkedby%3aiptvcat.com
+:KITE Victers (Kerala) (720p)
+#DESCRIPTION KITE Victers (Kerala) (720p)
+#SERVICE 4097:0:1:38:0:0:0:0:0:0:http%3a//131.153.22.8%3a1935/NCV/ncvstream/playlist.m3u8?checkedby%3aiptvcat.com
+:NCV (720p) [Not 24/7]
+#DESCRIPTION NCV (720p) [Not 24/7]
+#SERVICE 4097:0:1:39:0:0:0:0:0:0:http%3a//live.singamcloud.in%3a1935/nvision/nvision/playlist.m3u8:NVision
+#DESCRIPTION NVision
+#SERVICE 4097:0:1:40:0:0:0:0:0:0:https%3a//royalstarindia.co.in/pularitv_hls/pularitv.m3u8?checkedby%3aiptvcat.com
+:Pulari TV (720p) [Not 24/7]
+#DESCRIPTION Pulari TV (720p) [Not 24/7]
+#SERVICE 4097:0:1:41:0:0:0:0:0:0:http%3a//131.153.22.8%3a1935/SWANTHAM/live/playlist.m3u8?checkedby%3aiptvcat.com
+:Swantham (720p) [Not 24/7]
+#DESCRIPTION Swantham (720p) [Not 24/7]
+#SERVICE 4097:0:1:42:0:0:0:0:0:0:http%3a//cloud.logicwebs.in%3a1935/live/malabarnews/playlist.m3u8?checkedby%3aiptvcat.com
+:Malabar News (720p) [Not 24/7]
+#DESCRIPTION Malabar News (720p) [Not 24/7]
+#SERVICE 4097:0:1:43:0:0:0:0:0:0:https%3a//bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8?checkedby%3aiptvcat.com
+:Real News Kerala (1080p) [Not 24/7]
+#DESCRIPTION Real News Kerala (1080p) [Not 24/7]
+#SERVICE 4097:0:1:44:0:0:0:0:0:0:https%3a//d1vd9xhq6jlm48.cloudfront.net/out/v1/71fcc57c8fe74c5b938451bc2435a93e/index_4.m3u8?checkedby%3aiptvcat.com
+:Zee News Malayalam
+#DESCRIPTION Zee News Malayalam
+#SERVICE 4097:0:1:45:0:0:0:0:0:0:http%3a//cloud.logicwebs.in%3a1935/timevision/timevision/playlist.m3u8?checkedby%3aiptvcat.com
+:Time Vision News (720p) [Not 24/7]
+#DESCRIPTION Time Vision News (720p) [Not 24/7]
+#SERVICE 4097:0:1:46:0:0:0:0:0:0:https%3a//vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/playlist.m3u8:Janam TV
+#DESCRIPTION Janam TV
+#SERVICE 4097:0:1:47:0:0:0:0:0:0:http%3a//137.59.86.218%3a1935/live/onetv/playlist.m3u8?checkedby%3aiptvcat.com
+:One TV (720p)
+#DESCRIPTION One TV (720p)
+#SERVICE 4097:0:1:48:0:0:0:0:0:0:https%3a//vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/chunks.m3u8:Janam TV
+#DESCRIPTION Janam TV
+#SERVICE 4097:0:1:49:0:0:0:0:0:0:https%3a//vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8?checkedby%3aiptvcat.com
+:Janam TV (720p)
+#DESCRIPTION Janam TV (720p)
+#SERVICE 4097:0:1:50:0:0:0:0:0:0:https%3a//f3.vstream.online%3a7443/bstb/ngrp%3aanjan_hdall/playlist.m3u8?checkedby%3aiptvcat.com
+:Anjan (720p)
+#DESCRIPTION Anjan (720p)
+#SERVICE 4097:0:1:51:0:0:0:0:0:0:https%3a//namdhari.tv/live/sbs1.m3u8?checkedby%3aiptvcat.com" tvg-logo="https%3a//is4-ssl.mzstatic.com/image/thumb/Purple128/v4/83/74/55/8374557a-7e1b-dc56-e79a-7494fd40a275/source/60x60bb.jpg" group-title="India Other",Namdharihttps%3a//namdhari.tv/live/sbs1.m3u8?checkedby%3aiptvcat.com:Namdharihttps://namdhari.tv/live/sbs1.m3u8?checkedby:iptvcat.com
+#DESCRIPTION Namdharihttps://namdhari.tv/live/sbs1.m3u8?checkedby:iptvcat.com
+#SERVICE 4097:0:1:52:0:0:0:0:0:0:https%3a//live.hungama.com/linear/artist-aloud/playlist.m3u8?checkedby%3aiptvcat.com
+:Artist Aloud (1080p) [Not 24/7]
+#DESCRIPTION Artist Aloud (1080p) [Not 24/7]
+#SERVICE 4097:0:1:53:0:0:0:0:0:0:http%3a//ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8?checkedby%3aiptvcat.com
+:Ashrafi Channel
+#DESCRIPTION Ashrafi Channel
+#SERVICE 4097:0:1:54:0:0:0:0:0:0:http%3a//cdn19.live247stream.com/channely/tv/playlist.m3u8?checkedby%3aiptvcat.com
+:Channel Y
+#DESCRIPTION Channel Y
+#SERVICE 4097:0:1:55:0:0:0:0:0:0:https%3a//a.jsrdn.com/broadcast/22679_24MrQma9TX/-0500/c.m3u8?checkedby%3aiptvcat.com
+:Channel-S Live TV
+#DESCRIPTION Channel-S Live TV
+#SERVICE 4097:0:1:56:0:0:0:0:0:0:http%3a//live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8?checkedby%3aiptvcat.com
+:Desi Channel
+#DESCRIPTION Desi Channel
+#SERVICE 4097:0:1:57:0:0:0:0:0:0:http%3a//cdn2.live247stream.com/desiplus/tv/playlist.m3u8?checkedby%3aiptvcat.com
+:Desi Plus
+#DESCRIPTION Desi Plus
+#SERVICE 4097:0:1:58:0:0:0:0:0:0:https%3a//live.hungama.com/linear/dhamaal/playlist.m3u8?checkedby%3aiptvcat.com
+:Dhamaal (1080p) [Not 24/7]
+#DESCRIPTION Dhamaal (1080p) [Not 24/7]
+#SERVICE 4097:0:1:59:0:0:0:0:0:0:https%3a//live.hungama.com/linear/dil-se/playlist.m3u8?checkedby%3aiptvcat.com
+:Dil Se (360p) [Not 24/7]
+#DESCRIPTION Dil Se (360p) [Not 24/7]
+#SERVICE 4097:0:1:60:0:0:0:0:0:0:http%3a//198.144.149.82%3a8080/NOTV/DREAMHD/index.m3u8?token=GTR&checkedby%3aiptvcat.com
+:Dreamz TV (576p) [Not 24/7]
+#DESCRIPTION Dreamz TV (576p) [Not 24/7]
+#SERVICE 4097:0:1:61:0:0:0:0:0:0:http%3a//14.199.164.20%3a4001/play/a0j5/index.m3u8?checkedby%3aiptvcat.com
+:Enter10 Bangla (576p) [Not 24/7]
+#DESCRIPTION Enter10 Bangla (576p) [Not 24/7]
+#SERVICE 4097:0:1:62:0:0:0:0:0:0:http%3a//14.199.164.20%3a4001/play/a0q8/index.m3u8?checkedby%3aiptvcat.com
+:Fakt Marathi (576p) [Not 24/7]
+#DESCRIPTION Fakt Marathi (576p) [Not 24/7]
+#SERVICE 4097:0:1:63:0:0:0:0:0:0:http%3a//14.199.164.20%3a4001/play/a0qx/index.m3u8?checkedby%3aiptvcat.com
+:Food Food (576p) [Not 24/7]
+#DESCRIPTION Food Food (576p) [Not 24/7]
+#SERVICE 4097:0:1:64:0:0:0:0:0:0:https%3a//idvd.multitvsolution.com/idvo/imayamtv.m3u8?checkedby%3aiptvcat.com
+:Imayam (480p) [Not 24/7]
+#DESCRIPTION Imayam (480p) [Not 24/7]
+#SERVICE 4097:0:1:65:0:0:0:0:0:0:http%3a//live.wmncdn.net/jantatv/live.stream/index.m3u8?checkedby%3aiptvcat.com" tvg-logo="" group-title="India Other",Janta TVhttp%3a//live.wmncdn.net/jantatv/live.stream/index.m3u8?checkedby%3aiptvcat.com:Janta TVhttp://live.wmncdn.net/jantatv/live.stream/index.m3u8?checkedby:iptvcat.com
+#DESCRIPTION Janta TVhttp://live.wmncdn.net/jantatv/live.stream/index.m3u8?checkedby:iptvcat.com
+#SERVICE 4097:0:1:66:0:0:0:0:0:0:https%3a//live.wmncdn.net/jantatv/live.stream/index.m3u8?checkedby%3aiptvcat.com" tvg-logo="" group-title="India Other",Janta TVhttps%3a//live.wmncdn.net/jantatv/live.stream/index.m3u8?checkedby%3aiptvcat.com:Janta TVhttps://live.wmncdn.net/jantatv/live.stream/index.m3u8?checkedby:iptvcat.com
+#DESCRIPTION Janta TVhttps://live.wmncdn.net/jantatv/live.stream/index.m3u8?checkedby:iptvcat.com
+#SERVICE 4097:0:1:67:0:0:0:0:0:0:https%3a//cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8?checkedby%3aiptvcat.com
+:Jonack TV (360p)
+#DESCRIPTION Jonack TV (360p)
+#SERVICE 4097:0:1:68:0:0:0:0:0:0:https%3a//vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8?checkedby%3aiptvcat.com
+:Khabrain Abhi Tak (480p) [Not 24/7]
+#DESCRIPTION Khabrain Abhi Tak (480p) [Not 24/7]
+#SERVICE 4097:0:1:69:0:0:0:0:0:0:http%3a//14.199.164.20%3a4001/play/a0q7/index.m3u8?checkedby%3aiptvcat.com
+:Maha Movie (576p) [Not 24/7]
+#DESCRIPTION Maha Movie (576p) [Not 24/7]
+#SERVICE 4097:0:1:70:0:0:0:0:0:0:https%3a//ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8?checkedby%3aiptvcat.com" tvg-logo="" group-title="India Other",NDTVhttps%3a//ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8?checkedby%3aiptvcat.com:NDTVhttps://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8?checkedby:iptvcat.com
+#DESCRIPTION NDTVhttps://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8?checkedby:iptvcat.com
+#SERVICE 4097:0:1:71:0:0:0:0:0:0:https%3a//ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8?checkedby%3aiptvcat.com
+:NDTV India (480p)
+#DESCRIPTION NDTV India (480p)
+#SERVICE 4097:0:1:72:0:0:0:0:0:0:https%3a//live.hungama.com/linear/nazrana/playlist.m3u8?checkedby%3aiptvcat.com
+:Nazrana (720p) [Not 24/7]
+#DESCRIPTION Nazrana (720p) [Not 24/7]
+#SERVICE 4097:0:1:73:0:0:0:0:0:0:http%3a//158.69.124.9%3a1935/5aabtv/5aabtv/chunklist_w642807911.m3u8?checkedby%3aiptvcat.com
+:PUNJAB TV
+#DESCRIPTION PUNJAB TV
+#SERVICE 4097:0:1:74:0:0:0:0:0:0:https%3a//live.hungama.com/linear/pop-pataka/playlist.m3u8?checkedby%3aiptvcat.com
+:Pop Pataka (480p) [Not 24/7]
+#DESCRIPTION Pop Pataka (480p) [Not 24/7]
+#SERVICE 4097:0:1:75:0:0:0:0:0:0:http%3a//cdn12.henico.net%3a8080/live/sadatv/index.m3u8?checkedby%3aiptvcat.com" tvg-logo="" group-title="India Other",SADA TVhttp%3a//cdn12.henico.net%3a8080/live/sadatv/index.m3u8?checkedby%3aiptvcat.com:SADA TVhttp://cdn12.henico.net:8080/live/sadatv/index.m3u8?checkedby:iptvcat.com
+#DESCRIPTION SADA TVhttp://cdn12.henico.net:8080/live/sadatv/index.m3u8?checkedby:iptvcat.com
+#SERVICE 4097:0:1:76:0:0:0:0:0:0:http%3a//live.tamilvision.tv%3a8081/TVI/SD/chunks.m3u8?checkedby%3aiptvcat.com
+:Tamil Vision International,Tamil Vision TV
+#DESCRIPTION Tamil Vision International,Tamil Vision TV
+#SERVICE 4097:0:1:77:0:0:0:0:0:0:https%3a//cdn.appv.jagobd.com%3a444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tehelkatv.stream/playlist.m3u8?checkedby%3aiptvcat.com
+:Tehelka TV (480p) [Not 24/7]
+#DESCRIPTION Tehelka TV (480p) [Not 24/7]
+#SERVICE 4097:0:1:78:0:0:0:0:0:0:https%3a//live.streamjo.com/eetlive/eettv.m3u8?checkedby%3aiptvcat.com
+:Xplore Channel
+#DESCRIPTION Xplore Channel
+#SERVICE 4097:0:1:79:0:0:0:0:0:0:http%3a//cdn18.live247stream.com/ndachannel/tv/playlist.m3u8?checkedby%3aiptvcat.com
+:Xplore Channel
+#DESCRIPTION Xplore Channel
+#SERVICE 4097:0:1:80:0:0:0:0:0:0:http%3a//158.69.124.9%3a1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8?checkedby%3aiptvcat.com" tvg-logo="" group-title="India Other",5AAB TVhttp%3a//158.69.124.9%3a1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8?checkedby%3aiptvcat.com:5AAB TVhttp://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8?checkedby:iptvcat.com
+#DESCRIPTION 5AAB TVhttp://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8?checkedby:iptvcat.com
+#SERVICE 4097:0:1:81:0:0:0:0:0:0:http%3a//media.7starcloud.com%3a1935/live/7star/playlist.m3u8?checkedby%3aiptvcat.com" tvg-logo="https%3a//i.imgur.com/EaHWWNl.jpg" group-title="India Other",7Star TVhttp%3a//media.7starcloud.com%3a1935/live/7star/playlist.m3u8?checkedby%3aiptvcat.com:7Star TVhttp://media.7starcloud.com:1935/live/7star/playlist.m3u8?checkedby:iptvcat.com
+#DESCRIPTION 7Star TVhttp://media.7starcloud.com:1935/live/7star/playlist.m3u8?checkedby:iptvcat.com
+#SERVICE 4097:0:1:82:0:0:0:0:0:0:http%3a//95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8?checkedby%3aiptvcat.com" tvg-logo="http%3a//mhdtvworld.com/wp-content/uploads/2018/12/ayush_tv_in.png" group-title="India Other",Ayush TVhttp%3a//95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8?checkedby%3aiptvcat.com:Ayush TVhttp://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8?checkedby:iptvcat.com
+#DESCRIPTION Ayush TVhttp://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8?checkedby:iptvcat.com
+#SERVICE 4097:0:1:83:0:0:0:0:0:0:https%3a//ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8?checkedby%3aiptvcat.com
+:NDTV Profit (480p)
+#DESCRIPTION NDTV Profit (480p)
+#SERVICE 4097:0:1:84:0:0:0:0:0:0:https%3a\\6n3yogbnd9ok-hls-live.5centscdn.com\threetamil\d0dbe915091d400bd8ee7f27f0791303.sdp\index.m3u8:3 Tamil TV (720p)
+#DESCRIPTION 3 Tamil TV (720p)
+#SERVICE 4097:0:1:85:0:0:0:0:0:0:https%3a//live.hungama.com/linear/kadak-hits/playlist.m3u8?checkedby%3aiptvcat.com
+:Kadak Hits (1080p) [Not 24/7]
+#DESCRIPTION Kadak Hits (1080p) [Not 24/7]
+#SERVICE 4097:0:1:86:0:0:0:0:0:0:http%3a//rtmp.smartstream.video%3a1935/mhonemusic/mhonemusic/chunklist.m3u8?checkedby%3aiptvcat.com
+:MH1 Music
+#DESCRIPTION MH1 Music
+#SERVICE 4097:0:1:87:0:0:0:0:0:0:https%3a//d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8?checkedby%3aiptvcat.com
+:9XM (480p)
+#DESCRIPTION 9XM (480p)
+#SERVICE 4097:0:1:88:0:0:0:0:0:0:http%3a//live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8?checkedby%3aiptvcat.com
+:Desi Channel
+#DESCRIPTION Desi Channel
+#SERVICE 4097:0:1:89:0:0:0:0:0:0:https%3a//live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8?checkedby%3aiptvcat.com
+:Desi Channel
+#DESCRIPTION Desi Channel
+#SERVICE 4097:0:1:90:0:0:0:0:0:0:http%3a//103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8?checkedby%3aiptvcat.com
+:Music India (576p) [Not 24/7]
+#DESCRIPTION Music India (576p) [Not 24/7]
+#SERVICE 4097:0:1:91:0:0:0:0:0:0:http%3a//rtmp.smartstream.video%3a1935/mhonenews/mhonenews/chunklist.m3u8?checkedby%3aiptvcat.com" tvg-logo="" group-title="News",MH1 Newshttp%3a//rtmp.smartstream.video%3a1935/mhonenews/mhonenews/chunklist.m3u8?checkedby%3aiptvcat.com:MH1 Newshttp://rtmp.smartstream.video:1935/mhonenews/mhonenews/chunklist.m3u8?checkedby:iptvcat.com
+#DESCRIPTION MH1 Newshttp://rtmp.smartstream.video:1935/mhonenews/mhonenews/chunklist.m3u8?checkedby:iptvcat.com
+#SERVICE 4097:0:1:92:0:0:0:0:0:0:https%3a//vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/chunks.m3u8?checkedby%3aiptvcat.com" tvg-logo="" group-title="News",NEWS 24https%3a//vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/chunks.m3u8?checkedby%3aiptvcat.com:NEWS 24https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/chunks.m3u8?checkedby:iptvcat.com
+#DESCRIPTION NEWS 24https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/chunks.m3u8?checkedby:iptvcat.com
+#SERVICE 4097:0:1:93:0:0:0:0:0:0:https%3a//vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8?checkedby%3aiptvcat.com
+:Asianet News Tamil (360p)
+#DESCRIPTION Asianet News Tamil (360p)
+#SERVICE 4097:0:1:94:0:0:0:0:0:0:http%3a//163.47.214.155%3a1935/fwnews/live/playlist.m3u8?checkedby%3aiptvcat.com
+:FASTWAY NEWS (720p)
+#DESCRIPTION FASTWAY NEWS (720p)
+#SERVICE 4097:0:1:95:0:0:0:0:0:0:https%3a//ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8?checkedby%3aiptvcat.com
+:NDTV 24X7 (480p)
+#DESCRIPTION NDTV 24X7 (480p)
+#SERVICE 4097:0:1:96:0:0:0:0:0:0:https%3a//ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8?checkedby%3aiptvcat.com
+:NDTV India
+#DESCRIPTION NDTV India
+#SERVICE 4097:0:1:97:0:0:0:0:0:0:https%3a//ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8?checkedby%3aiptvcat.com
+:NDTV Profit
+#DESCRIPTION NDTV Profit
+#SERVICE 4097:0:1:98:0:0:0:0:0:0:https%3a//vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8?checkedby%3aiptvcat.com" tvg-logo="http%3a//mhdtvworld.com/wp-content/uploads/2018/12/news24-2.jpg" group-title="News",News 24https%3a//vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8?checkedby%3aiptvcat.com:News 24https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8?checkedby:iptvcat.com
+#DESCRIPTION News 24https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8?checkedby:iptvcat.com
+#SERVICE 4097:0:1:99:0:0:0:0:0:0:https%3a//vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8?checkedby%3aiptvcat.com" tvg-logo="http%3a//mhdtvworld.com/wp-content/uploads/2018/12/news24-2.jpg" group-title="News",News 24https%3a//vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8?checkedby%3aiptvcat.com:News 24https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8?checkedby:iptvcat.com
+#DESCRIPTION News 24https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8?checkedby:iptvcat.com
+#SERVICE 4097:0:1:100:0:0:0:0:0:0:https%3a//vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/playlist.m3u8?checkedby%3aiptvcat.com
+:News 24 (360p)
+#DESCRIPTION News 24 (360p)
+#SERVICE 4097:0:1:101:0:0:0:0:0:0:https%3a//rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8?checkedby%3aiptvcat.com
+:Pratidin Time
+#DESCRIPTION Pratidin Time
+#SERVICE 4097:0:1:102:0:0:0:0:0:0:https%3a//vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/playlist.m3u8?checkedby%3aiptvcat.com
+:TV9 News (720p) [Not 24/7]
+#DESCRIPTION TV9 News (720p) [Not 24/7]
+#SERVICE 4097:0:1:103:0:0:0:0:0:0:https%3a//vidcdn.vidgyor.com/tv9telugu-origin/live/tv9telugu-origin/live1/chunks.m3u8?checkedby%3aiptvcat.com
+:TV9 News (HD / తెలుగు)
+#DESCRIPTION TV9 News (HD / తెలుగు)
+#SERVICE 4097:0:1:104:0:0:0:0:0:0:http%3a//6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8?checkedby%3aiptvcat.com
+:Shubhsandesh
+#DESCRIPTION Shubhsandesh
+#SERVICE 4097:0:1:105:0:0:0:0:0:0:https%3a//6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8?checkedby%3aiptvcat.com
+:Shubhsandesh
+#DESCRIPTION Shubhsandesh
+#SERVICE 4097:0:1:106:0:0:0:0:0:0:http%3a//cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8?checkedby%3aiptvcat.com
+:Prime Canada TV
+#DESCRIPTION Prime Canada TV
+#SERVICE 4097:0:1:107:0:0:0:0:0:0:http%3a//stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?checkedby%3aiptvcat.com
+:Super Radyo DZBB,Super Radyo DZBB (720p) [Not 24/7]
+#DESCRIPTION Super Radyo DZBB,Super Radyo DZBB (720p) [Not 24/7]
+#SERVICE 4097:0:1:108:0:0:0:0:0:0:https%3a//www.youtube.com/channel/UCWainKMJPyXikjekccFf3NA/live:A R Rahman
+#DESCRIPTION A R Rahman
